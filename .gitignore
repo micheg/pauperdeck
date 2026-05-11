@@ -1,0 +1,11 @@
+vendor/
+cards/*.db
+test/cookies.txt
+
+.DS_Store
+Thumbs.db
+
+node_modules/
+
+.env
+.env.local
